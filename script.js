@@ -19,14 +19,14 @@ if(value % 2 == 0 || border.style.width == '100%')
 border.style.width = '40%'
 btn1.innerText = 'close'
 mysound.play()
-show.style.marginLeft = none;
+show.style.margin = 0 auto;
 form.style.marginRight = '0'
 }
 else
 {
 border.style.width = '100%'
 btn1.innerText = 'open'
-show.style.marginLeft = '-45rem'
+show.style.margin = '-45rem'
 // form.style.left = '0'
 form.style.marginRight= '100rem'
 }
