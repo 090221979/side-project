@@ -53,7 +53,7 @@ h1
 /*     flex-direction:column; */
 /*     display:flex; */
 }
-.wrapper, .form
+ .form
 {
 flex-direction:column;
 justify-content:center;
