@@ -51,7 +51,7 @@ h1
     transition:margin-left .5s ease-in;
     justify-content:center;
 /*     flex-direction:column; */
-/*     display:flex; */
+    display:block;
 }
  .form
 {
