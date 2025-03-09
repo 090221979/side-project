@@ -50,6 +50,7 @@ h1
     margin-left:-45rem;
     transition:margin-left .5s ease-in;
     justify-content:center;
+    display:flex;
 }
 .wrapper, .form
 {
