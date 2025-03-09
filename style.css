@@ -45,7 +45,7 @@ h1
 {
     text-align:center;
     color:#fff;
-    margin: 0 auto;
+/*     margin: 0 auto; */
     margin-bottom:1em;
     margin-left:-45rem;
     transition:margin-left .5s ease-in;
