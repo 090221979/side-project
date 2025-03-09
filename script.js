@@ -19,7 +19,7 @@ if(value % 2 == 0 || border.style.width == '100%')
 border.style.width = '40%'
 btn1.innerText = 'close'
 mysound.play()
-show.style.marginLeft = '0'
+show.style.margin = '0 auto'
 form.style.marginRight = '0'
 }
 else
