@@ -27,7 +27,7 @@ else
 border.style.width = '100%'
 btn1.innerText = 'open'
 show.style.marginLeft = '-45rem'
-// form.style.left = '0'
+form.style.left = '0'
 form.style.marginRight= '100rem'
 }
 
